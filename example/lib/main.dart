@@ -3,8 +3,8 @@ import 'package:shopify/shopify.dart';
 
 void main() {
   Shopify.create(
-    shop: 'shop-name',
-    storeFrontApiToken: 'your-api-key',
+    shop: '',
+    storeFrontApiToken: '',
   );
 
   runApp(MyApp());

@@ -1,7 +1,6 @@
 name: shopify
 description: A wrapper of the shopify APIs to make them easier to work with in Flutter. This includes efficient and type-safe parsing.
 version: 0.0.1
-homepage: https://github.com/nonvanilla-shop/shopify_flutter
 
 environment:
   sdk: ">=2.13.0 <3.0.0"
